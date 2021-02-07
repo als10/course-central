@@ -1,0 +1,167 @@
+QWidget {
+color:#C1666B;
+background-color:#DCCAAF;
+}
+
+
+#centralwidget {
+background-color:#D4B483;
+}
+
+#scrollAreaWidgetContents {
+background-color:#00FFFFFF;
+}
+
+#scrollArea {
+background-color:#00FFFFFF;
+}
+
+#row_2, #row_job, #row_job {
+background-color:#D4B483;
+}
+
+
+QLineEdit {
+background-color:#E4DFDA;
+color:#C1666B;
+padding:8px;
+}
+
+QLineEdit:selected {
+  border: 1px solid #C1666B;
+}
+
+QLineEdit:hover {
+  border: 1px solid #C1666B;
+}
+
+
+
+QTextEdit {
+background-color:#E4DFDA;
+color:#C1666B;
+padding:8px;
+}
+
+QTextEdit:selected {
+  border: 1px solid #C1666B;
+}
+
+QTextEdit:hover {
+  border: 1px solid #C1666B;
+}
+
+
+
+QPushButton {
+border: 1px solid #CB8D77;
+background-color:#C1666B;
+color:#E4DFDA;
+}
+
+QPushButton:hover {
+  border: 1px solid #E4DFDA;
+  color: #F0F0F0;
+}
+
+QPushButton:pressed {
+border: 1px solid #C1666B;
+background-color:#E4DFDA;
+color:#C1666B;
+}
+
+
+
+QCheckBox {
+  background-color: #00FFFFFF;
+  color: #C1666B;
+}
+
+
+
+QLabel {
+background-color:#00FFFFFF;
+color:#C1666B;
+}
+
+
+
+QComboBox {
+background-color:#00FFFFFF;
+color:#C1666B;
+}
+
+QComboBox:hover {
+  border: 1px solid #C1666B;
+  border-radius:5px;
+}
+
+QComboBox::item:hover {
+background-color:#C1666B;
+color:#DCCAAF;
+}
+
+QComboBox::item:selected {
+background-color:#C1666B;
+color:#D4B483;
+}
+
+
+
+QListWidget::item:hover {
+background-color:#E4DFDA;
+}
+
+
+
+
+.QFrame[frameShape="4"], .QFrame[frameShape="5"] {
+  border: none;
+  background-color: #C1666B;
+}
+
+.QFrame[frameShape="6"] {
+  border: 1px solid #C1666B;
+}
+
+
+
+QMenuBar {
+  background-color: #DCCAAF;
+  color: #C1666B;
+}
+
+QMenuBar::item:selected {
+  background-color: #C1666B;
+  color: #E4DFDA;
+}
+
+QMenuBar::item:disabled {
+  color: #D4B483;
+}
+
+
+QMenu {
+  background-color: #DCCAAF;
+  color: #C1666B;
+}
+
+QMenu::separator {
+  height: 1px;
+  background-color: #DCCAAF;
+}
+
+QMenu::item:selected {
+background-color: #C1666B;
+color: #E4DFDA;
+}
+
+
+
+QScrollBar:vertical {
+  background-color: #DCCAAF;
+  width: 16px;
+  margin: 16px 2px 16px 2px;
+  border: 1px solid #DCCAAF;
+  border-radius: 8px;
+}
