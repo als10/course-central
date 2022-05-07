@@ -11,6 +11,10 @@ The underlying database consists of four tables – Users, Instructors, Courses 
 
 The key features of this project are the ability to create an account and log-in, to view all courses, to search for courses by name, to sort courses (according to name, difficulty or fees), and to purchase courses. Users can also update their details or delete their account. From an instructor account, there are options to add/update/delete courses. Once a course is purchased, a receipt is generated. Opening a purchased course, opens a web browser which loads the course's link.
 
+Demonstration
+-------------
+<img src="demo.gif" />
+
 Prerequisites
 ------------
 1. Python 3.6.1 or higher
