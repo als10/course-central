@@ -15,8 +15,9 @@ Demonstration
 -------------
 <img src="demo.gif" />
 
-Prerequisites
-------------
+# Getting Started
+
+## Prerequisites
 1. Python 3.6.1 or higher
 2. MySQL Server 8.0.19 or higher
 3. Python Modules:
@@ -26,6 +27,11 @@ Prerequisites
     4. werkzeug 1.0.1 (for password encryption)
     5. mysql-connector-python 8.0.20 (for mysql database connection)
 
-Usage
------
+The Python modules can be installed using pip.
+
+## Running Locally
+After cloning the repository, simply run
+
     python main.py
+    
+from the root directory.
