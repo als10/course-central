@@ -15,9 +15,9 @@ Demonstration
 -------------
 <img src="demo.gif" />
 
-# Getting Started
+## Getting Started
 
-## Prerequisites
+### Prerequisites
 1. Python 3.6.1 or higher
 2. MySQL Server 8.0.19 or higher
 3. Python Modules:
@@ -29,7 +29,7 @@ Demonstration
 
 The Python modules can be installed using pip.
 
-## Running Locally
+### Running Locally
 After cloning the repository, simply run
 
     python main.py
